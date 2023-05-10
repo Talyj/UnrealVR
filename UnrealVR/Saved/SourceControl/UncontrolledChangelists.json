@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/Cours/2022-2023/UE5/UnrealVR/UnrealVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"G:/Cours/2022-2023/UE5/UnrealVR/UnrealVR/Content/CableGrab.uasset",
+				"G:/Cours/2022-2023/UE5/UnrealVR/UnrealVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"G:/Cours/2022-2023/UE5/UnrealVR/UnrealVR/Content/FPWeapon/Materials/matCableRed.uasset",
+				"G:/Cours/2022-2023/UE5/UnrealVR/UnrealVR/Content/FPWeapon/Materials/matCableRed_2.uasset",
+				"G:/Cours/2022-2023/UE5/UnrealVR/UnrealVR/Content/FPWeapon/Materials/matCableBlue.uasset",
+				"G:/Cours/2022-2023/UE5/UnrealVR/UnrealVR/Content/Cable_Blueprint.uasset",
+				"G:/Cours/2022-2023/UE5/UnrealVR/UnrealVR/Content/Cables_Blueprint.uasset",
+				"G:/Cours/2022-2023/UE5/UnrealVR/UnrealVR/Content/CableGrab_BP.uasset",
 				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
