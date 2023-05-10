@@ -5,13 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/Julien/porte.uasset",
+				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/Julien/gear_Blueprint.uasset",
+				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset",
+				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/Julien/geartest_Blueprint.uasset",
+				"D:/Jeux/Epic/UE_5.1/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/Julien/Button.uasset",
+				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/porte.uasset",
+				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/Julien/Gear.uasset",
+				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/Gear.uasset",
 				"C:/Users/PC/Desktop/ESGI/2022_2023/UnrealVr/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/test.uasset",
 				"C:/Users/PC/Desktop/ESGI/2022_2023/UnrealVr/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/GameManager.uasset",
 				"C:/Users/PC/Desktop/ESGI/2022_2023/UnrealVr/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/porte.uasset",
 				"C:/Users/PC/Desktop/ESGI/2022_2023/UnrealVr/UnrealVR/UnrealVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
 				"C:/Users/PC/Desktop/ESGI/2022_2023/UnrealVr/UnrealVR/UnrealVR/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Users/PC/Desktop/ESGI/2022_2023/UnrealVr/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/Gear.uasset",
-				"D:/ESGI/2022-2023/UnrealVR/UnrealVR/UnrealVR/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/PC/Desktop/ESGI/2022_2023/UnrealVr/UnrealVR/UnrealVR/Content/VRTemplate/Blueprints/Gear.uasset"
 			]
 		}
 	]
